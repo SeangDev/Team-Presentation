@@ -1,4 +1,4 @@
 def main(n) :
-    return n
-N = 9
+    return n+2
+N = 678
 print(main(N))
