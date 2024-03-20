@@ -1,4 +1,4 @@
 def main(n) :
-    return n+1
-N = 3
+    return n
+N = 7
 print(main(N))
